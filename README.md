@@ -1,6 +1,6 @@
 # This is a basic URL shortener 
 
-- This is builtusing python web framework `flask` and `sqlite` database.
+- This is built using python web framework `flask` and `sqlite` database.
 
 ## Steps to run locally
 
